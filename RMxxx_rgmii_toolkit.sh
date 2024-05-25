@@ -11,7 +11,7 @@ SIMPLE_ADMIN_DIR="/usrdata/simpleadmin"
 SIMPLE_FIREWALL_DIR="/usrdata/simplefirewall"
 SIMPLE_FIREWALL_SCRIPT="$SIMPLE_FIREWALL_DIR/simplefirewall.sh"
 SIMPLE_FIREWALL_SYSTEMD_DIR="$SIMPLE_FIREWALL_DIR/systemd"
-TAILSCALE_DIR="/usrdata/tailscale/"
+TAILSCALE_DIR="/usrdata/tailscale"
 TAILSCALE_SYSD_DIR="/usrdata/tailscale/systemd"
 # AT Command Script Variables and Functions
 DEVICE_FILE="/dev/smd7"
